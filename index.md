@@ -16,7 +16,8 @@ Current research suggests that social judgments can be made from faces within an
 - **Length**: <60 mins
 - **Student Researcher**: [Harry Bushell](mailto:Harry2.Bushell@live.uwe.ac.uk)
 
-#### [Smiling: a diverse perspective](https://uwe.eu.qualtrics.com/jfe/form/SV_ewGB27WyAfK5jcq ){:target="\_blank"}
+#### [Smiling: a diverse perspective](https://uwe.eu.qualtrics.com/jfe/form/SV_ewGB27WyAfK5jcq ){:target="_blank" rel="noopener"}
+
 
 Current research suggests that smiling elicits more positive perceptions by others compared to a neutral expression, for attributes such as attractiveness and perceived personality traits like agreeableness. This effect appears particularly pronounced when hetereosexual men judge women’s face images, which has been interpreted as evidence that women may more effectively employ (and benefit from) smiling in inter-sexual relationships. Here, we are interested in whether these effects can be replicated with a more diverse stimulus set, and exploring the effect of individual differences in perceived sexual interest.
 
@@ -28,7 +29,7 @@ Current research suggests that smiling elicits more positive perceptions by othe
 
 ### Emotion Perception
 
-#### [Emotion perception and effects of mood and culture](https://uwe.eu.qualtrics.com/jfe/form/SV_8Im2gatgD1FALKS){:target="\_blank"}
+#### [Emotion perception and effects of mood and culture](https://uwe.eu.qualtrics.com/jfe/form/SV_8Im2gatgD1FALKS){:target="_blank" rel="noopener"}
 
 Recruiting Arab/Middle Eastern and British/European participants to take part in an online task. The study will examine your facial emotion recognition abilities whilst taking your mood and cultural background into consideration. 
 
