@@ -1,8 +1,8 @@
-## Welcome to Face Research @ UWE Bristol
+## Participate in online experiments!
 
-Participate in online experiments!
+We are currently looking for participants for several undergrad dissertation projects:
 
-### Current undergrad dissertation projects
+### Impression formation and trust
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
