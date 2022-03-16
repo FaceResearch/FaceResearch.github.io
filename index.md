@@ -27,15 +27,6 @@ Current research suggests that smiling elicits more positive perceptions by othe
 - **Length**: <25 mins
 - **Student Researcher**: [Abbie Finn](mailto:abbie2.finn@live.uwe.ac.uk)
 
-
-#### [Facial attractiveness and effects of expression and symmetry](https://uwe.eu.qualtrics.com/jfe/form/SV_3IUTLi899RVahXE){:target="_blank" rel="noopener"}
-
-You are invited to take part in my study exploring facial attractiveness! You will be asked to rate a number of faces on their attractiveness and answer a few questions on your demographic background and your competitiveness.
-
-- **Type**: Rating
-- **Length**: <25 mins
-- **Student Researcher**: [Ana-Maria Koeva](mailto:ana2.koeva@live.uwe.ac.uk)
-
 -----
 
 ### Emotion Perception
@@ -47,6 +38,18 @@ Recruiting Arab/Middle Eastern and British/European participants to take part in
 - **Type**: Interactive, Rating
 - **Length**: <25 mins
 - **Student Researcher**: [Aida Weheba](mailto:aida2.weheba@live.uwe.ac.uk)
+
+-----
+
+### Facial Attractiveness
+
+#### [Facial attractiveness and effects of expression and symmetry](https://uwe.eu.qualtrics.com/jfe/form/SV_3IUTLi899RVahXE){:target="_blank" rel="noopener"}
+
+You are invited to take part in my study exploring facial attractiveness! You will be asked to rate a number of faces on their attractiveness and answer a few questions on your demographic background and your competitiveness.
+
+- **Type**: Rating
+- **Length**: <25 mins
+- **Student Researcher**: [Ana-Maria Koeva](mailto:ana2.koeva@live.uwe.ac.uk)
 
 -----
 
