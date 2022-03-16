@@ -6,7 +6,7 @@ We are currently looking for participants for several undergrad dissertation pro
 
 ### Impression Formation
 
-#### [Impression formation and trust](https://uwe.eu.qualtrics.com/jfe/form/SV_cvRR6hJqLYFnuLA)
+#### [Impression formation and trust](https://uwe.eu.qualtrics.com/jfe/form/SV_cvRR6hJqLYFnuLA){:target="\_blank"}
 
 *You have the choice to enter into a raffle for a **£50 Amazon Voucher** for taking part!*
 
@@ -16,7 +16,7 @@ Current research suggests that social judgments can be made from faces within an
 - **Length**: <60 mins
 - **Student Researcher**: [Harry Bushell](mailto:Harry2.Bushell@live.uwe.ac.uk)
 
-#### [Smiling: a diverse perspective](https://uwe.eu.qualtrics.com/jfe/form/SV_ewGB27WyAfK5jcq )
+#### [Smiling: a diverse perspective](https://uwe.eu.qualtrics.com/jfe/form/SV_ewGB27WyAfK5jcq ){:target="\_blank"}
 
 Current research suggests that smiling elicits more positive perceptions by others compared to a neutral expression, for attributes such as attractiveness and perceived personality traits like agreeableness. This effect appears particularly pronounced when hetereosexual men judge women’s face images, which has been interpreted as evidence that women may more effectively employ (and benefit from) smiling in inter-sexual relationships. Here, we are interested in whether these effects can be replicated with a more diverse stimulus set, and exploring the effect of individual differences in perceived sexual interest.
 
@@ -28,7 +28,7 @@ Current research suggests that smiling elicits more positive perceptions by othe
 
 ### Emotion Perception
 
-#### [Emotion perception and effects of mood and culture](https://uwe.eu.qualtrics.com/jfe/form/SV_8Im2gatgD1FALKS)
+#### [Emotion perception and effects of mood and culture](https://uwe.eu.qualtrics.com/jfe/form/SV_8Im2gatgD1FALKS){:target="\_blank"}
 
 Recruiting Arab/Middle Eastern and British/European participants to take part in an online task. The study will examine your facial emotion recognition abilities whilst taking your mood and cultural background into consideration. 
 
@@ -41,3 +41,5 @@ Recruiting Arab/Middle Eastern and British/European participants to take part in
 ### Contact
 
 If you'd like to learn more about any of these studies or would like to get in touch for other reasons, you can also contact [Dr. Iris Holzleitner](mailto:Iris.Holzleitner@uwe.ac.uk), who is supervising these projects.
+
+[1]: <a href="https://uwe.eu.qualtrics.com/jfe/form/SV_cvRR6hJqLYFnuLA" target="_blank">Hello, world!</a>
