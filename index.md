@@ -6,7 +6,7 @@ We are currently looking for participants for several undergrad dissertation pro
 
 ### Impression Formation
 
-#### [Impression formation and trust](https://uwe.eu.qualtrics.com/jfe/form/SV_cvRR6hJqLYFnuLA){:target="\_blank"}
+#### [Impression formation and trust](https://uwe.eu.qualtrics.com/jfe/form/SV_cvRR6hJqLYFnuLA){:target="_blank" rel="noopener"}
 
 *You have the choice to enter into a raffle for a **£50 Amazon Voucher** for taking part!*
 
@@ -41,5 +41,3 @@ Recruiting Arab/Middle Eastern and British/European participants to take part in
 ### Contact
 
 If you'd like to learn more about any of these studies or would like to get in touch for other reasons, you can also contact [Dr. Iris Holzleitner](mailto:Iris.Holzleitner@uwe.ac.uk), who is supervising these projects.
-
-[1]: <a href="https://uwe.eu.qualtrics.com/jfe/form/SV_cvRR6hJqLYFnuLA" target="_blank">Hello, world!</a>
