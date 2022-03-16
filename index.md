@@ -1,6 +1,8 @@
 ## Participate in online experiments!
 
-We are currently looking for participants for several undergrad dissertation projects undertaken as part of a BSc (Hons) in Psychology at the University of the West of England, Bristol. If you're interested in taking part, please click the title of the study to start participating!
+We are currently looking for participants for several undergrad dissertation projects undertaken as part of a BSc (Hons) in Psychology at the University of the West of England, Bristol. If you're interested in taking part, please click the title of the study to learn more and start participating!
+
+-----
 
 ### Impression Formation
 
@@ -22,6 +24,8 @@ Current research suggests that smiling elicits more positive perceptions by othe
 - **Length**: <25 mins
 - **Student Researcher**: [Abbie Finn](mailto:abbie2.finn@live.uwe.ac.uk)
 
+-----
+
 ### Emotion perception
 
 #### [Emotion perception and effects of mood and culture](https://uwe.eu.qualtrics.com/jfe/form/SV_8Im2gatgD1FALKS)
@@ -32,6 +36,7 @@ Recruiting Arab/Middle Eastern and British/European participants to take part in
 - **Length**: <25 mins
 - **Student Researcher**: [Aida Weheba](mailto:aida2.weheba@live.uwe.ac.uk)
 
+-----
 
 ### Contact
 
