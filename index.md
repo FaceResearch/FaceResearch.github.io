@@ -26,7 +26,7 @@ Current research suggests that smiling elicits more positive perceptions by othe
 
 -----
 
-### Emotion perception
+### Emotion Perception
 
 #### [Emotion perception and effects of mood and culture](https://uwe.eu.qualtrics.com/jfe/form/SV_8Im2gatgD1FALKS)
 
