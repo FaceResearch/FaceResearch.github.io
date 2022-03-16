@@ -2,6 +2,8 @@
 
 We are currently looking for participants for several undergrad dissertation projects undertaken as part of a BSc (Hons) in Psychology at the University of the West of England, Bristol. If you're interested in taking part, please click the title of the study to learn more and start participating!
 
+*Please note these studies will not run on mobile devices!*
+
 -----
 
 ### Impression Formation
@@ -16,14 +18,23 @@ Current research suggests that social judgments can be made from faces within an
 - **Length**: <60 mins
 - **Student Researcher**: [Harry Bushell](mailto:Harry2.Bushell@live.uwe.ac.uk)
 
-#### [Smiling: a diverse perspective](https://uwe.eu.qualtrics.com/jfe/form/SV_ewGB27WyAfK5jcq ){:target="_blank" rel="noopener"}
 
+#### [Smiling: a diverse perspective](https://uwe.eu.qualtrics.com/jfe/form/SV_ewGB27WyAfK5jcq){:target="_blank" rel="noopener"}
 
 Current research suggests that smiling elicits more positive perceptions by others compared to a neutral expression, for attributes such as attractiveness and perceived personality traits like agreeableness. This effect appears particularly pronounced when hetereosexual men judge women’s face images, which has been interpreted as evidence that women may more effectively employ (and benefit from) smiling in inter-sexual relationships. Here, we are interested in whether these effects can be replicated with a more diverse stimulus set, and exploring the effect of individual differences in perceived sexual interest.
 
 - **Type**: Rating
 - **Length**: <25 mins
 - **Student Researcher**: [Abbie Finn](mailto:abbie2.finn@live.uwe.ac.uk)
+
+
+#### [Facial attractiveness and effects of expression and symmetry](https://uwe.eu.qualtrics.com/jfe/form/SV_3IUTLi899RVahXE){:target="_blank" rel="noopener"}
+
+You are invited to take part in my study exploring facial attractiveness! You will be asked to rate a number of faces on their attractiveness and answer a few questions on your demographic background and your competitiveness.
+
+- **Type**: Rating
+- **Length**: <25 mins
+- **Student Researcher**: [Ana-Maria Koeva](mailto:ana2.koeva@live.uwe.ac.uk)
 
 -----
 
