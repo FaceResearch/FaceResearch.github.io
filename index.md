@@ -42,3 +42,5 @@ Recruiting Arab/Middle Eastern and British/European participants to take part in
 ### Contact
 
 If you'd like to learn more about any of these studies or would like to get in touch for other reasons, you can also contact [Dr. Iris Holzleitner](mailto:Iris.Holzleitner@uwe.ac.uk), who is supervising these projects.
+
+*Last updated: 2022-03-16*
