@@ -2,7 +2,7 @@
 
 We are currently looking for participants for several undergrad dissertation projects undertaken as part of a BSc (Hons) in Psychology at the University of the West of England, Bristol. If you're interested in taking part, please click the title of the study to learn more and start participating!
 
-*Please note these studies will not run on mobile devices!*
+*Please note these studies will not run on mobile devices.*
 
 -----
 
