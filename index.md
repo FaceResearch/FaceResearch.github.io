@@ -15,7 +15,7 @@ We are currently looking for participants for several undergrad dissertation pro
 Current research suggests that social judgments can be made from faces within an extremely short time and often without much mental effort. Here, we are interested in how judgments interact with information about people’s behaviour in forming perceptions of trust.
 
 - **Type**: Implicit Association Task, Rating
-- **Length**: <60 mins
+- **Length**: ~30 mins
 - **Student Researcher**: [Harry Bushell](mailto:Harry2.Bushell@live.uwe.ac.uk)
 
 
