@@ -61,6 +61,15 @@ Recruiting Arab/Middle Eastern and British/European participants to take part in
 
 ### Facial Attractiveness
 
+#### [Facial attractiveness and effects of shape and colour cues](https://uwe.eu.qualtrics.com/jfe/form/SV_cJfMyYgIjihSyjA){:target="_blank" rel="noopener"}
+
+You are invited to take part in a study on how sex-typical shape and colour affect face preferences. You will complete a short questionnaire before being presented with a number of face images: Your aim will be to maximize faces' attractiveness by manipulating them on different dimensions. 
+
+- **Type**: Interactive, Rating
+- **Length**: <30 mins
+- **Student Researcher**: [Hasan Urlu](mailto:Hasan2.Urlu@live.uwe.ac.uk)
+
+
 #### [Facial attractiveness and effects of expression and symmetry](https://uwe.eu.qualtrics.com/jfe/form/SV_3IUTLi899RVahXE){:target="_blank" rel="noopener"}
 
 You are invited to take part in my study exploring facial attractiveness! You will be asked to rate a number of faces on their attractiveness and answer a few questions on your demographic background and your competitiveness.
