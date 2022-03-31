@@ -63,7 +63,7 @@ Recruiting Arab/Middle Eastern and British/European participants to take part in
 
 #### [Facial attractiveness and effects of shape and colour cues](https://uwe.eu.qualtrics.com/jfe/form/SV_cJfMyYgIjihSyjA){:target="_blank" rel="noopener"}
 
-You are invited to take part in a study on how sex-typical shape and colour affect face preferences. You will complete a short questionnaire before being presented with a number of face images: Your aim will be to maximize faces' attractiveness by manipulating them on different dimensions. 
+You are invited to take part in a study on how sex-typical facial shape and colour cues affect face preferences. You will complete a short questionnaire before being presented with a number of face images: Your aim will be to maximize faces' attractiveness by manipulating them on different dimensions. 
 
 - **Type**: Interactive, Rating
 - **Length**: <30 mins
