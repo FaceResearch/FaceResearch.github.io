@@ -10,7 +10,7 @@ We are currently looking for participants for several undergrad dissertation pro
 
 #### [AVAILABLE SHORTLY: How do we perceive facial attractiveness?](https://uwe.eu.qualtrics.com/){:target="_blank" rel="noopener"}
 
-You are invited to take part in a study on how perceptions of attractivenees and facial expressions interact. You will complete a short questionnaire before being presented with a pairs of face images. Your task will be to choose which face in each pair you prefer! 
+You are invited to take part in a study on how perceptions of attractivenees and facial expressions interact. You will complete a short questionnaire before being presented with pairs of face images. Your task will be to choose which face in each pair you prefer! 
 
 - **Type**: Choice task
 - **Length**: <30 mins
